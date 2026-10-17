@@ -114,3 +114,18 @@ The `Images` folder contains photographs showing the hardware setup and circuit 
 
 **Shanthini G**  
 Electronics and Communication Engineering
+
+## Project Resources
+
+### Hardware Connections
+- [Hardware Connection 1](Images/Connections/Hardware%20Connections1.jpeg)
+- [Hardware Connection 2](Images/Connections/Hardware%20Connections2.jpeg)
+
+### System Output
+- [Serial Monitor Output](Images/OUTPUT/Serial%20Monitor%20Output.png)
+- [ThingSpeak Output](Images/OUTPUT/ThinkSpeak%20Output.png)
+- [Google Sheets Output](Images/OUTPUT/Google%20spreadsheet%20Output.png)
+- [SMS Alert Output](Images/OUTPUT/SMS%20Alert%20Output.png)
+
+### Demonstration Video
+- [Watch Project Demo](Demo/Output%20Demo%20video.mp4)
